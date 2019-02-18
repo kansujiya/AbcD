@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "560806857775",
+    "firebase_url": "https://abcd-61d17.firebaseio.com",
+    "project_id": "abcd-61d17",
+    "storage_bucket": "abcd-61d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560806857775:android:3d568b3b1f1b6215",
+        "android_client_info": {
+          "package_name": "com.recyclerit.sureshkansujiya.abcd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560806857775-8frd7qpht6ugmg40eio3i67louon6sdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgnH3XW7GpzeyjvSQ3wZ_f_p4DYKsMh24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-7486954764491752~3697969996"
+    }
+  ],
+  "configuration_version": "1"
+}
